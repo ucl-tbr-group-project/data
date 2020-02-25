@@ -7,5 +7,9 @@ Run #0
  - Sampling strategy: uniform
  - Hardware: Hypatia RCIF partition (4 nodes, 40 CPUs each)
  - Started: 2020-02-22 23:00
- - Completed: _pending_
+ - Completed: 2020-02-25 11:30
 
+
+Notes:
+
+ - Ignore `batch999`, it is just the first line of `batch0` that was used to test job deployment.
