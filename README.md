@@ -11,8 +11,8 @@ The repository is divided into multiple runs, each corresponding to a separate d
 
 Each batch consists of two files:
 
-    1. `_in.csv` file that contains data points in the TBR parameter domain to be sampled,
-    2. `_out.csv` file that repeats the contents of the `_in.csv` file but also includes the results of the TBR simulation for each data point.
+  1. `_in.csv` file that contains data points in the TBR parameter domain to be sampled,
+  2. `_out.csv` file that repeats the contents of the `_in.csv` file but also includes the results of the TBR simulation for each data point.
 
 Sometimes, data handling scripts are included for convenience.
 
