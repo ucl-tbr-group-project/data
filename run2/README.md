@@ -6,7 +6,7 @@ Run #2
  - Simulation configuration: default (1 TBR sample = 10 batches, 10,000 particles each)
  - Sampling strategy: uniform
  - Hardware: Hypatia RCIF partition (4 nodes, 40 CPUs each)
- - Started: _pending_
+ - Started: 2020-03-17 18:34
  - Completed: _pending_
 
 
