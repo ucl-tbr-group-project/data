@@ -23,6 +23,6 @@ Notes:
    - `firstwall_coolant_material, blanket_coolant_material) == ('He', 'He')`
       for batches 300-399
  - Continuous parameters are sampled uniformly independently within each 100
-   batch region. However, the between region their values were fixed so that
+   batch region. However, between the regions their values were fixed so that
    `batchA == batchB iff A == B (mod 100)`.
 
