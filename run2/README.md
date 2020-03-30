@@ -7,7 +7,7 @@ Run #2
  - Sampling strategy: uniform
  - Hardware: Hypatia RCIF partition (4 nodes, 40 CPUs each)
  - Started: 2020-03-17 18:34
- - Completed: _pending_
+ - Completed: 2020-03-27 18:52
 
 
 Notes:
